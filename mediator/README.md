@@ -5,4 +5,4 @@ C:\Program Files\LogRhythm\LogRhythm Metrics\LogRhythm Metrics Web UI\dashboards
 
 
 ## Preview
-![](mediator/Mediator.jpg?raw=true)
+![](Mediator.jpg?raw=true)
